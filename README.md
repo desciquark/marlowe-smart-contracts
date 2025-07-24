@@ -7,6 +7,7 @@ This repository contains a curated set of smart contract examples created for th
 
 ## 🔍 Contracts included
 
+-`intro_marlowe_pipetas.marlowe`- Introductory Contracts: Pipette Purchases with Marlowe
 - `research_funding.marlowe` – Model for allocating and releasing funds for research projects  
 - `collaboration_agreement.marlowe` – Agreement between research groups or institutions  
 - `ip_royalties.marlowe` – Revenue-sharing model for scientific intellectual property  
